@@ -1,0 +1,37 @@
+id: I4983BD39
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T03:01:50.855238'
+last_modified: '2022-06-19T03:01:50.856297'
+parser: null
+source_metadata:
+  title: Drag shul Phrin las rin chens (1871–1935) Sakya Genealogy Supplement
+  author: drag shul phrin las rin chen/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); converted from external file, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:unspecified (main portion from an unspecified source), Kunga Dorje
+    (Kathmandu) (kun), Losal Dondrup (Dehradun) (ld)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun), Losal Dondrup (ld)
+  - TEI Encoding:Sakya Research Centre
+  - 'TEI Markup: -'
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/230
+  bases:
+    46a2:
+      title: Drag shul Phrin las rin chens (1871–1935) Sakya Genealogy Supplement
+      order: 1
+      base_file: 46a2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
